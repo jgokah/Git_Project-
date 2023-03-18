@@ -1,2 +1,2 @@
-# Git_Project-
+# GitProject
 Trial project for DevOps training
